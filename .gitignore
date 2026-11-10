@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+.DS_Store
+venv312/
+.venv/
+# ATENÇÃO: o Streamlit Cloud só lê arquivos que estão no repositório, então o CSV precisa ser versionado
+# para o app publicado funcionar. O pré-projeto diz que os microdados não são redistribuídos:
+# combine com o grupo e confira a licença no Kaggle. Para NÃO subir o CSV, tire o # da linha abaixo.
+# dados/*.csv
+
+venv312/
+.venv/
